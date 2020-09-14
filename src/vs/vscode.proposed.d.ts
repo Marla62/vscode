@@ -2184,7 +2184,7 @@ declare module 'vscode' {
 		 * An optional human-readable description that will be rendered in the title of the view.
 		 * Setting the title description to null, undefined, or empty string will remove the title description from the view.
 		 */
-		titleDescription?: string | undefined;
+		description?: string | undefined;
 	}
 
 	//#endregion
